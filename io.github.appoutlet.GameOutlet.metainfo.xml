@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component type="desktop">
-  <!--Created with jdAppdataEdit 5.1-->
+  <!--Created with
+  jdAppdataEdit 5.1-->
   <id>io.github.appoutlet.GameOutlet</id>
   <name>GameOutlet</name>
   <summary>Find the best prices on PC games</summary>
@@ -9,7 +10,9 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
   <description>
-    <p>The GameOutlet put together the latest deals in games for PC. It puts the deals for the most popular online game stores in one single place. It allows you to easily find the best deals and search for your favorite games</p>
+    <p>The GameOutlet put together the latest deals in games for PC. It puts the deals for the most
+      popular online game stores in one single place. It allows you to easily find the best deals
+      and search for your favorite games</p>
     <p>Features</p>
     <ul>
       <li>See the latest deals from the most popular game stores</li>
@@ -21,11 +24,27 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux.png</image>
+      <image type="source">
+        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux.png</image>
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v1.3.0" date="2022-06-16" type="stable">
+    <release version="v1.3.2" date="2023-06-21" type="stable">
+      <p>Fix the version on the About screen</p>
+      <url>
+        https://github.com/AppOutlet/GameOutlet/releases/tag/v1.3.2
+      </url>
+    </release>
+    <release version="v1.3.1" date="2023-06-17" type="stable">
+      <ul>
+        <li>Improve language support for ru</li>
+        <li>Improve language support for pt</li>
+      </ul>
+      <url>
+        https://github.com/AppOutlet/GameOutlet/releases/tag/v1.3.1
+      </url>
+    </release>
+    <release version="v1.3.0" date="2023-06-16" type="stable">
       <url>https://github.com/AppOutlet/GameOutlet/releases/tag/v1.3.0</url>
     </release>
   </releases>
@@ -35,7 +54,7 @@
   <url type="vcs-browser">https://github.com/AppOutlet/GameOutlet#readme</url>
   <categories>
     <category>Game</category>
-    <category>Utility</category>\
+    <category>Utility</category>
   </categories>
   <recommends>
     <control>pointing</control>
@@ -53,5 +72,5 @@
     <keyword>Compose</keyword>
     <keyword>Kotlin</keyword>
   </keywords>
-  <content_rating type="oars-1.0"/>
+  <content_rating type="oars-1.0" />
 </component>
