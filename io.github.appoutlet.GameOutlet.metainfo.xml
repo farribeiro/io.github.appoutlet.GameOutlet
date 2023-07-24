@@ -25,10 +25,39 @@
   <screenshots>
     <screenshot type="default">
       <image type="source">
-        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux.png</image>
+        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/1.png
+      </image>
+    </screenshot>
+    <screenshot>
+      <image type="source">
+        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/2.png
+      </image>
+    </screenshot>
+        <screenshot>
+      <image type="source">
+        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/3.png
+      </image>
+    </screenshot>
+        <screenshot >
+      <image type="source">
+        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/4.png
+      </image>
+    </screenshot>
+    <screenshot >
+      <image type="source">
+        https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/docs/screenshot/linux/5.png
+      </image>
     </screenshot>
   </screenshots>
   <releases>
+    <release version="v1.3.3" date="2023-07-24" type="stable">
+      <description>
+      	To see the changelog, please see the link below
+      </description>
+      <url>
+        https://github.com/AppOutlet/GameOutlet/releases/tag/v1.3.3
+      </url>
+    </release>
     <release version="v1.3.2" date="2023-06-21" type="stable">
       <p>Fix the version on the About screen</p>
       <url>
