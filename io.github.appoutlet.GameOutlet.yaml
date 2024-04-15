@@ -32,13 +32,13 @@ modules:
       - type: file
         dest-filename: GameOutlet.jar
         only-arches: [aarch64]
-        url: https://github.com/AppOutlet/GameOutlet/releases/download/v1.3.4/GameOutlet-linux-arm64-1.3.4.jar
-        sha256: b505d5f9c4f95009291202d717dd73126f0a7f0b352b0553996952a314c08a5f
+        url: https://github.com/AppOutlet/GameOutlet/releases/download/v1.4.1/GameOutlet-linux-arm64-1.4.1.jar
+        sha256: 48d106de91baf9f3223a0528dd4c483429f5895721d2aef32261e36de086ee71
       - type: file
         dest-filename: GameOutlet.jar
         only-arches: [x86_64]
-        url: https://github.com/AppOutlet/GameOutlet/releases/download/v1.3.4/GameOutlet-linux-x64-1.3.4.jar
-        sha256: 3ef5a3857bdb5ddf4b32a76312065c50a97be91c8c55a41d7450c9f5bd94f6bd
+        url: https://github.com/AppOutlet/GameOutlet/releases/download/v1.4.1/GameOutlet-linux-x64-1.4.1.jar
+        sha256: d1846d332872b3b9e8cb4dcc65aea4806b5958cb836d7867cbf6b7dae228c877
       - type: file
         path: io.github.appoutlet.GameOutlet.metainfo.xml
       - type: file
