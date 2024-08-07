@@ -50,9 +50,17 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v1.4.2" date="2024-06-03" type="stable">
+    <release version="v1.4.3" date="2024-08-07" type="stable">
       <description>
-        Dependency updates
+        🎮 GameOutlet v1.4.3: Maintenance Release
+        Hello gamers! We've released a minor update focused on maintaining and improving the backend of GameOutlet. This release primarily consists of dependency updates to keep our app running smoothly and securely.
+        🔧 Dependency Updates:
+        Several libraries have been updated to their latest versions, including Detekt, Kover, Ktor client, Google Truth, Mockk, and FlatLaf.
+        🎉 What This Means for You
+        While you won't see any visible changes in the app, this maintenance update helps ensure GameOutlet continues to perform well and remain secure. We're committed to keeping the app's foundation strong for future feature developments.
+        🚀 Moving Forward
+        We appreciate your understanding as we focus on these necessary backend improvements. Stay tuned for future updates that will bring new features and enhancements to your gaming experience.
+        Thank you for your continued support of GameOutlet.
       </description>
     </release>
   </releases>
